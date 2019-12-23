@@ -1,0 +1,30 @@
+{
+  "name": "rguthriepdfprofile",
+  "version": "1.0.0",
+  "description": "Team member profile summary based on GitHub information, delivered as a PDF document.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rguthrie000/rguthriePDFprofile.git"
+  },
+  "keywords": [
+    "pdf",
+    "GitHub",
+    "profile"
+  ],
+  "author": "rguthrie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rguthrie000/rguthriePDFprofile/issues"
+  },
+  "homepage": "https://github.com/rguthrie000/rguthriePDFprofile#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "electron": "^5.0.3",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^7.0.1"
+  }
+}
